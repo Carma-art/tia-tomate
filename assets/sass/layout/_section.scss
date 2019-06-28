@@ -1,0 +1,35 @@
+.section{
+  background-color: $taupegray;
+  color: $snow;
+  padding: 5em;
+  font-family: $ralawey;
+  text-align: center;
+  padding: 5px;
+
+}
+
+.section__img{
+  width: 65%;
+  padding-top: 5%;
+}
+
+.section__text{
+    padding: 3px;
+}
+
+.section__title{
+  padding: 5px;
+  font-weight: $bold;
+  font-size: $large;
+    text-align: center;
+
+}
+
+.section__text__ligth{
+  font-size: $medium;
+  font-weight:$medium;
+  text-align: justify;
+  padding-left: 15%;
+  padding-right: 15%;
+    line-height: 25px;
+}

@@ -1,0 +1,30 @@
+.button{
+  border-radius: 5px;
+  font-family: $ralawey;
+  font-size: $xx-large;
+  color: $granitegray;
+  font-weight: $bold;
+
+}
+
+.button_default{
+background-color: $white;
+border: 1px solid $white;
+
+&:hover{
+  background-color: $gray;
+  color:$granitegray;
+}
+}
+
+.button_positive{
+ background-color: $gray;
+border-color: $gray;
+
+
+ &:hover{
+   background-color: $snow;
+   border-color: $white
+
+ }
+}

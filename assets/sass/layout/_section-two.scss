@@ -1,0 +1,28 @@
+.section-two{
+padding: 5px;
+color: $granitegray;
+text-align: center;
+}
+
+.section-two__img{
+  width: 65%;
+  padding-top: 5%;
+}
+
+.section-two__titulo{
+  padding: 5px;
+  font-weight: $bold;
+  font-size: $large;
+    text-align: center;
+}
+
+.section-two__text__ligth{
+  font-size: $medium;
+  font-weight: $medium;
+  text-align: justify;
+  padding-left: 15%;
+  padding-right: 15%;
+  line-height: 25px;
+  color: $granitegray;
+
+}

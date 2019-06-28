@@ -1,0 +1,20 @@
+
+.header {
+  margin:0;
+  padding: 12em;
+  font-family: $ralawey;
+  background-color: $jellybean;
+  color: $white;
+  text-align: center;
+}
+
+.header__text{
+font-weight: $light;
+font-size: $xx-large;
+
+}
+
+.header__text--bold{
+font-weight: $bold;
+font-size: $xx-large;
+}

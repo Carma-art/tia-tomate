@@ -1,0 +1,39 @@
+.main-section{
+  font-family: $ralawey;
+  text-align: center;
+  background-color: $snow;
+  color:$granitegray;
+}
+
+.main-section__nav {
+  background-color: $jellybean;
+  font-weight: $bold;
+  font-size: $x-large;
+  color: $white;
+  text-align: center;
+  padding: 3%;
+}
+
+.main-section__description{
+  padding: 1%;
+}
+
+.main-section__img{
+  width: 25%;
+}
+
+.main-section__title{
+  text-align: center;
+  font-weight: $bold;
+  font-size: $large;
+}
+
+.main-section__ligth{
+
+text-align: justify;
+font-weight: $regular;
+font-size: $medium;
+padding-left: 20%;
+padding-right: 20%;
+line-height: 25px;
+}
